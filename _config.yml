@@ -1,7 +1,7 @@
 name: Ryan Page
 favicon: null
-layout_spectrum: 0.7383900228887796
-typography_spectrum: 0.7870814048219472
+layout_spectrum: 1
+typography_spectrum: 0.27697
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.49784720432944596
-  lightness: 0.12647883407771587
-  saturation: 0.030903429491445422
-  rhythmicContrast: 0.6535698852967471
+  brandStrength: 1
+  lightness: 0.125
+  saturation: 0
+  rhythmicContrast: 0.25
 purpose: []
